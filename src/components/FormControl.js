@@ -21,7 +21,7 @@ const FormControl = (props) => {
           <div className="form-action">
             <button
               type="submit"
-              className="d-grid gap-2 col-6 mx-auto btn btn-primary "
+              className="d-grid gap-2 col-6 mx-auto btn changeBtnStyle"
             >
               Change
             </button>
