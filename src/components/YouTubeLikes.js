@@ -26,7 +26,7 @@ const YouTubeLikes = ({ reset }) => {
 
   return (
     <div className="like-actions">
-      <div className="like-dislike">
+      <div className=" like-dislike">
         <div className="likdv ">
           <link
             rel="stylesheet"

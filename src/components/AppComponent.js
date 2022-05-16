@@ -9,10 +9,9 @@ function AppComponent() {
   const [videoUrl, setVideoUrl] = useState("");
   const [reset, setReset] = useState(false);
   function handleChange(e) {
-    console.log(e);
     e.preventDefault();
     let values = serializeForm(e.target, { hash: true });
-    console.log(values);
+
     setVideoUrl(values.url);
     setReset(!reset);
   }
@@ -23,7 +22,7 @@ function AppComponent() {
           <VideoContainer videoUrl={videoUrl} />
         </div>
 
-        <div className="col-3 side-rghit">
+        <div className="col-3 rghit-side">
           <YouTubeLikes reset={reset} />
           <FormControl handleChange={handleChange} />
         </div>
