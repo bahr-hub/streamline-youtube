@@ -4,7 +4,7 @@ import VideoContainer from "./VideoContainer";
 import FormControl from "./FormControl";
 import YouTubeLikes from "./YouTubeLikes";
 
-// Render function for Prismic headless CMS pages
+
 function AppComponent() {
   const [videoUrl, setVideoUrl] = useState("");
   const [reset, setReset] = useState(false);
