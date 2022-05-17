@@ -4,15 +4,15 @@ https://www.youtube.com/watch?v=Ke90Tje7VS0
 
 ### `Refrence To Solve the Assignment:`
 
-1- https://codesandbox.io/s/youtube-final-project-api-forked-151fwb?file=/src/styles.css
-2- https://codesandbox.io/s/4obox?file=/src/components/add_slider.js
-3- https://developers.google.com/youtube/iframe_api_reference#Revision_History
-4- https://stackoverflow.com/questions/39395109/adding-an-embedded-youtube-video-to-a-page-dynamically
-5- https://api.jquery.com/serialize/
-6- https://css-tricks.com/aspect-ratio-boxes/
-7- https://www.w3schools.com/howto/howto_js_toggle_like.asp
-8- https://www.joshwcomeau.com/animation/css-transitions/
-9- https://imagecolorpicker.com/en
+1- https://codesandbox.io/s/youtube-final-project-api-forked-151fwb?file=/src/styles.css .\
+2- https://codesandbox.io/s/4obox?file=/src/components/add_slider.js .\
+3- https://developers.google.com/youtube/iframe_api_reference#Revision_History .\
+4- https://stackoverflow.com/questions/39395109/adding-an-embedded-youtube-video-to-a-page-dynamically .\
+5- https://api.jquery.com/serialize/ .\
+6- https://css-tricks.com/aspect-ratio-boxes/ .\
+7- https://www.w3schools.com/howto/howto_js_toggle_like.asp .\
+8- https://www.joshwcomeau.com/animation/css-transitions/ .\
+9- https://imagecolorpicker.com/en .\
 
 
 
