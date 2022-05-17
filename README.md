@@ -1,8 +1,8 @@
-##General Courses
+### `General Courses`
 
 https://www.youtube.com/watch?v=Ke90Tje7VS0
 
-##Refrence To Solve the Assignment:
+### `Refrence To Solve the Assignment:`
 
 1- https://codesandbox.io/s/youtube-final-project-api-forked-151fwb?file=/src/styles.css
 2- https://codesandbox.io/s/4obox?file=/src/components/add_slider.js
