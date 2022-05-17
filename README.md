@@ -12,7 +12,7 @@ https://www.youtube.com/watch?v=Ke90Tje7VS0
 6- https://css-tricks.com/aspect-ratio-boxes/ .\
 7- https://www.w3schools.com/howto/howto_js_toggle_like.asp .\
 8- https://www.joshwcomeau.com/animation/css-transitions/ .\
-9- https://imagecolorpicker.com/en .\
+9- https://imagecolorpicker.com/en 
 
 
 
